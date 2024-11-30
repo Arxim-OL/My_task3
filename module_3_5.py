@@ -1,4 +1,4 @@
-#vЗадача "Рекурсивное умножение цифр"
+# Задача "Рекурсивное умножение цифр"
 def get_multiplied_digits(number):
     str_number = str (number)
     if int (str_number[0]):
